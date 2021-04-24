@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kishore
 - 👀 I’m interested in Secure Coding and performance oriented PWA
 - 🌱 I’m currently learning Blazor
-- 💞️ I’m looking to collaborate on Coding
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
